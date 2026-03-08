@@ -1,30 +1,5 @@
 [
   {
-    "id": "mmid0lythxp1h",
-    "name": "Test Submission",
-    "relationship": "Test",
-    "title": null,
-    "type": null,
-    "date": null,
-    "story": "Testing the memory submission flow with audio.",
-    "source": "community",
-    "sortOrder": null,
-    "pinned": false,
-    "audioUrl": "https://raw.githubusercontent.com/christianabutler-sudo/perla-memorial-data/main/uploads/audio/1773011066549.webm",
-    "photoUrl": null,
-    "photos": [],
-    "videoUrl": null,
-    "layout": null,
-    "memoryType": "memory",
-    "tags": [
-      "Family"
-    ],
-    "reactionCount": 0,
-    "mediaUrl": null,
-    "status": "pending",
-    "createdAt": "2026-03-08T23:04:36.150Z"
-  },
-  {
     "id": "fam-mmiczykj-0",
     "name": "The Butler Family",
     "relationship": "",

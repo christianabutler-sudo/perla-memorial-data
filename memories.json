@@ -1,30 +1,5 @@
 [
   {
-    "id": "mmidl2lflonlg",
-    "name": "Christian Butler",
-    "relationship": "Son-in-law.",
-    "title": null,
-    "type": null,
-    "date": null,
-    "story": "I am testing this to see if the voice recording will work.",
-    "source": "community",
-    "sortOrder": null,
-    "pinned": false,
-    "audioUrl": null,
-    "photoUrl": null,
-    "photos": [],
-    "videoUrl": null,
-    "layout": null,
-    "memoryType": "memory",
-    "tags": [
-      "Funny Moment"
-    ],
-    "reactionCount": 0,
-    "mediaUrl": null,
-    "status": "pending",
-    "createdAt": "2026-03-08T23:20:30.819Z"
-  },
-  {
     "id": "fam-mmiczykj-0",
     "name": "The Butler Family",
     "relationship": "",
